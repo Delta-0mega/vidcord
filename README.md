@@ -1,5 +1,6 @@
 # vidcord
 Discord video embeder without limit (need hosted video source link like cdn)
+The URL must end with .mp4 or .m4v
 https://vidcord.vercel.app/
 
 ## Preview
